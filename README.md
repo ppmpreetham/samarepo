@@ -1,2 +1,2 @@
 # samarepo
-A Place to store all the words that rhyme with Samar
+A Place to store all the words that rhyme with Samar, in aplhabetical order
